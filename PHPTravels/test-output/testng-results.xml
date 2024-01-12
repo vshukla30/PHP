@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-11T20:57:08 IST" name="Default suite" finished-at="2024-01-11T20:57:15 IST" duration-ms="7117">
+    <groups>
+    </groups>
+    <test started-at="2024-01-11T20:57:08 IST" name="Default test" finished-at="2024-01-11T20:57:15 IST" duration-ms="7117">
+      <class name="testCases.RegisterPageTestCases">
+        <test-method is-config="true" signature="gearUp()[pri:0, instance:testCases.RegisterPageTestCases@729d991e]" started-at="2024-01-11T20:57:08 IST" name="gearUp" finished-at="2024-01-11T20:57:12 IST" duration-ms="4831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gearUp -->
+        <test-method signature="testHapppyFlow()[pri:0, instance:testCases.RegisterPageTestCases@729d991e]" started-at="2024-01-11T20:57:12 IST" name="testHapppyFlow" description="Testing the happy flow of Php travels register page" finished-at="2024-01-11T20:57:14 IST" duration-ms="1998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHapppyFlow -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.RegisterPageTestCases@729d991e]" started-at="2024-01-11T20:57:14 IST" name="tearDown" finished-at="2024-01-11T20:57:15 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.RegisterPageTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
